@@ -1,0 +1,10 @@
+"A sample data matrix to test NTSYSpc
+"There are 5 characters (rows) and 10 OTUs (columns)
+"The columns are labeled. No missing values.
+1 5 10L 0
+A B C D E F G H I J
+8 7 9 13 6 12 9 7 11 6
+5 6 3 3 7 10 5 7 5 7
+11 13 12 9 8 18 17 21 22 13
+10 18 22 8 7 17 18 26 24 18
+11 6 12 10 10 19 13 13 19 14
