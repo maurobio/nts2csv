@@ -1,2 +1,2 @@
 # nts2csv
- Converts NTSYSpc data files to CSV format
+ A simple console-mode program which converts [NTSYSpc](http://www.appliedbiostat.com/ntsyspc/ntsyspc.html) data files to CSV format
